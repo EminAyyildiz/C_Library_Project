@@ -1,3 +1,5 @@
+//Written by EMİN AYYILDIZ
+
 
 #include <stdio.h>
 #include <stdlib.h>
