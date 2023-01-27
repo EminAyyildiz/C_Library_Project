@@ -2,9 +2,7 @@
 
 
 
-
 // Bu projedeki temel amacım daha önce python dili isle yapmış olduğum kütüphane sistemini C dili kullanarak yapmaktır. Bu projede öğrenmiş olduğum fonksiyon metodunu pekiştirdim. Projenin özelliklerini görevlerini anlatacak olursam: proje kullanıcıyı bir menü ile karşılamaktadır. Bu menü 5 seçenekli bir menüdür. Ve kullanıcının isteğine göre çeşitli görevlere sahip, çeşitli fonksiyonları çağırarak görevlerini yapmaktadırlar. Bu görevlere bakacak olursak: 1-Kitap ekleme. Bu seçenek ile kullanıcı sisteme kitap ekleyebilmektedir. Sistem kullanıcıdan kitabın adı, yazarı ve yayınlanma tarihi gibi bilgileri sırasıyla isteyerek sistemin belleğinde tutmaktadır. 2- Bu seçenek ile temel amaç sisteme kayıtlı tüm kitapları listelemektir. 3- Bu seçeneğin temel amacı aynı yazara ait olabilecek kitapları listelemektir. Bu seçenek ile aynı yazara ait olan birçok kitap tek bir ekranda listelenir. 4- Eğer ki kullanıcı kütüphaneden bir kitap almak isterse bu seçenek devreye girer. Kullanıcı kitabın adı ile kütüphaneden kitabı aratır. Kitap bulunamazsa ekrana uyarı verir. Kitap bulunduğu taktirde kullanıcıya bu kitap verildi olarak çıktı alınır ve kitap listeden silinir. 5- Exit. Bu seçenek ile kullanıcı sistemden çıkış yapabilmektedir. Şimdiden geri bildirimleriniz için teşekkür ederim.
-
 
 
 
@@ -13,3 +11,5 @@
 
 
 // Mein Hauptziel in diesem Projekt ist es, das Bibliothekssystem, das ich mit der Python-Sprache gemacht habe, mit der C-Sprache zu machen. Ich habe die Funktionsmethode, die ich in diesem Projekt gelernt habe, verstärkt. Wenn ich die Eigenschaften des Projekts und seine Aufgaben erkläre: Das Projekt begrüßt den Benutzer mit einem Menü. Dieses Menü ist ein Menü mit 5 Optionen. Und sie erfüllen ihre Pflichten, indem sie verschiedene Funktionen mit verschiedenen Aufgaben entsprechend der Anforderung des Benutzers aufrufen. Wenn wir uns diese Aufgaben ansehen: 1-Hinzufügen eines Buches. Mit dieser Option kann der Benutzer dem System Bücher hinzufügen. Das System hält Informationen wie den Namen des Buches, den Autor und das Datum der Veröffentlichung im Speicher des Systems, indem es den Benutzer entsprechend fragt. 2- Der Hauptzweck dieser Option besteht darin, alle im System registrierten Bücher aufzulisten. 3- Der Hauptzweck dieser Option besteht darin, die Bücher aufzulisten, die möglicherweise demselben Autor gehören. Mit dieser Option werden viele Bücher desselben Autors auf einem einzigen Bildschirm aufgelistet. 4- Wenn der Benutzer ein Buch aus der Bibliothek kaufen möchte, wird diese Option aktiviert. Der Benutzer sucht anhand des Buchnamens nach dem Buch aus der Bibliothek. Wenn das Buch nicht gefunden wird, gibt es eine Warnung auf dem Bildschirm aus. Wenn das Buch gefunden wird, wird es ausgedruckt, da dieses Buch dem Benutzer gegeben wurde, und das Buch wird aus der Liste gelöscht. 5- Beenden. Mit dieser Option kann sich der Benutzer vom System abmelden. Vielen Dank für Ihr Feedback im Voraus.
+
+
